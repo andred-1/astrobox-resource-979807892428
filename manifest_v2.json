@@ -1,0 +1,77 @@
+{
+  "item": {
+    "id": "979807892428",
+    "restype": "watchface",
+    "name": "水果忍者",
+    "description": "🤩100个基础关卡！\n😳还有惊喜的原创模式\n🤯买水果忍者竟然还送一个合成大西瓜\n😋欢迎加群催更1062431776\n适配型号固件\n9p:190\n10p:043\n9:132\n10:128\nrw6:043\n11:179\n8p:113\n游戏为原生应用 请不要下错固件",
+    "preview": [
+      "media/1000041170.png",
+      "media/1000041173.png",
+      "media/1000041160.png",
+      "media/1000041172.png",
+      "media/1000041164.jpg",
+      "media/1000041171.png",
+      "media/1000041163.jpg"
+    ],
+    "icon": "media/1000041166.png",
+    "cover": "media/1000041165.jpg",
+    "author": [
+      {
+        "name": "Andred",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "Andred的游戏交流群",
+      "url": "https://qun.qq.com/universal-share/share?ac=1&authKey=jFCr8GaNYCPh6LvrLhC7H9P%2BMajLFlpZvR/Wyh6xi7OumMLtGd9X7ZxZLXF3BM77&busi_data=eyJncm91cENvZGUiOiIxMDYyNDMxNzc2IiwidG9rZW4iOiJqNTkvTUZOYkdCNHU0YjhPNmRsRVFoSlpKUTcwMExiTENSM2xOS1Y3bnZ0R3RDeE5xS3prQmJ3MnVPeTNXQjEvIiwidWluIjoiMzk0Njg4MjYyMCJ9&data=C5M41C9I0qBAtcxW2t-a3zNfpx-gwiI8CtLEVqpiBVOEoM3DueBo0XSV0c4SoYz67IBKKehUYYXfcux81pNkiAWyLZCrank0rfRRxLEwA2M&svctype=5&tempid=h5_group_info",
+      "icon": "arrow-right"
+    }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "1.0.0",
+      "file_name": "downloads/RedmiWatch6_3.100.043_Offline.bin",
+      "versionCode": 65536
+    },
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/Band10_3.1.28_Offline.bin",
+      "versionCode": 65536
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/Band10_3.1.28_Offline.bin",
+      "versionCode": 65536
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/Band10Pro_3.101.043_Offline.bin",
+      "versionCode": 65536
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/Band11_4.100.179.bin",
+      "versionCode": 65536
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/Band11_4.100.179.bin",
+      "versionCode": 65536
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/Band9_3.1.32_Offline.bin",
+      "versionCode": 65536
+    },
+    "xmb9p": {
+      "version": "1.10.0",
+      "file_name": "downloads/Band9Pro_3.1.190_Offline.bin",
+      "versionCode": 68096
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
