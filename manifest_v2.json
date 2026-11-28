@@ -3,7 +3,7 @@
     "id": "979807892428",
     "restype": "watchface",
     "name": "水果忍者",
-    "description": "🤩100个基础关卡！\n😳还有惊喜的原创模式\n🤯买水果忍者竟然还送一个合成大西瓜\n😋欢迎加群催更1062431776\n适配型号固件\n9p:190\n10p:043\n9:132\n10:128\nrw6:043\n11:179\n8p:113\n游戏为原生应用 请不要下错固件",
+    "description": "🤩100个基础关卡！\n😳还有惊喜的原创模式\n🤯买水果忍者竟然还送一个合成大西瓜\n😋欢迎加群催更1062431776\n适配型号固件\n小米手环9：3.1.17、3.1.32\n小米手环10：3.1.26、3.1.28\n小米手环11：4.100.139、4.100.155、4.100.179\n小米手环8 Pro：1.6.113\n小米手环9 Pro：3.1.175、3.1.187、3.1.190\n小米手环10 Pro：3.101.043\nRedmi Watch 6：3.100.043\n游戏为原生应用 请不要下错固件",
     "preview": [
       "media/1000041170.png",
       "media/1000041173.png",
@@ -31,44 +31,92 @@
   ],
   "downloads": {
     "xmrw6": {
-      "version": "1.0.0",
-      "file_name": "downloads/RedmiWatch6_3.100.043_Offline.bin",
-      "versionCode": 65536
+      "version": "1.1.0",
+      "file_name": "downloads/RedmiWatch6_3.100.043.bin",
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "压缩安装包体积"
+        }
+      ]
     },
     "xmb10": {
-      "version": "1.0.0",
-      "file_name": "downloads/Band10_3.1.28_Offline.bin",
-      "versionCode": 65536
+      "version": "1.1.0",
+      "file_name": "downloads/97Band10_3.1.26_3.1.28.bin",
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "同一安装包适配更多固件 压缩安装包体积"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/Band10_3.1.28_Offline.bin",
-      "versionCode": 65536
+      "version": "1.1.0",
+      "file_name": "downloads/97Band10_3.1.26_3.1.28.bin",
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "同一安装包适配更多固件 压缩安装包体积"
+        }
+      ]
     },
     "xmb10p": {
-      "version": "1.0.0",
-      "file_name": "downloads/Band10Pro_3.101.043_Offline.bin",
-      "versionCode": 65536
+      "version": "1.1.0",
+      "file_name": "downloads/Band10Pro_3.101.043_DualTouch_TEST.bin",
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "压缩安装包体积"
+        }
+      ]
     },
     "xmb11": {
-      "version": "1.0.0",
-      "file_name": "downloads/Band11_4.100.179.bin",
-      "versionCode": 65536
+      "version": "1.1.0",
+      "file_name": "downloads/Band11_139_155_179_EntryFix.bin",
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "同一安装包适配更多固件 压缩安装包体积"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "1.0.0",
-      "file_name": "downloads/Band11_4.100.179.bin",
-      "versionCode": 65536
+      "version": "1.1.0",
+      "file_name": "downloads/Band11_139_155_179_EntryFix.bin",
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "同一安装包适配更多固件 压缩安装包体积"
+        }
+      ]
     },
     "xmb9": {
-      "version": "1.0.0",
-      "file_name": "downloads/Band9_3.1.32_Offline.bin",
-      "versionCode": 65536
+      "version": "1.1.0",
+      "file_name": "downloads/Band9_3.1.17_3.1.32.bin",
+      "versionCode": 65792,
+      "updatelogs": [
+        {
+          "version": "1.1.0",
+          "content": "同一安装包适配更多固件 压缩安装包体积"
+        }
+      ]
     },
     "xmb9p": {
-      "version": "1.10.0",
-      "file_name": "downloads/Band9Pro_3.1.190_Offline.bin",
-      "versionCode": 68096
+      "version": "2.0.0",
+      "file_name": "downloads/Band9Pro_3.1.175_3.1.187_3.1.190.bin",
+      "versionCode": 131072,
+      "updatelogs": [
+        {
+          "version": "2.0.0",
+          "content": "同一安装包适配更多固件 压缩安装包体积"
+        }
+      ]
     }
   },
   "ext": {
